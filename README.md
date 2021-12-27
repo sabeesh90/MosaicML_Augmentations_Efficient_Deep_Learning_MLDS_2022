@@ -1,6 +1,7 @@
 # Mosaic ML implementation 
 
-## This paper was presented in MLDS 2022
+## This paper was presented in MLDS 2022 [MLDC_2022.pdf](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7781588/MLDC_2022.pdf)
+
 ## SOTA Accuracies on MNIST and CIFAR-10 
 
 This paper covers advanced topics on making deep neural networks more efficient and robust by enhancing architectural efficiency, optimization, label manipulations, and learning rate techniques.
