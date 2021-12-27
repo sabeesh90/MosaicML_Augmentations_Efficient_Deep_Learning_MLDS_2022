@@ -1,6 +1,7 @@
 # Mosaic ML implementation 
 
-## This paper was presented in MLDS 2022 [MLDC_2022.pdf](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7781607/MLDC_2022.2.pdf)
+## This paper was presented in MLDS 2022 [MLDC_Jan_2022.pdf](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7781640/MLDC_Jan_2022.pdf)
+
 
 
 ## SOTA Accuracies on MNIST and CIFAR-10 
