@@ -2,6 +2,8 @@
 
 ## This paper was presented in MLDS 2022 [MLDC_Jan_2022.pdf](https://github.com/sabeesh90/MosaicML_Advanced_Optimization_Augmentations_Depthwise/files/7781640/MLDC_Jan_2022.pdf)
 
+### Authors: Sabeesh Ethiraj, Bharath Kumar Bolla 
+
 <img src="https://user-images.githubusercontent.com/48343095/147504124-2d7b4eef-fcc5-4928-98e8-ae8d84d58a7a.png" width="700"  height = "700"/>
 
 ## SOTA Accuracies on MNIST and CIFAR-10 
